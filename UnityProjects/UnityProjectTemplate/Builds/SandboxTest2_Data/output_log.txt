@@ -79,3 +79,23 @@ Skipped rendering frame because GfxDevice is in invalid state (device lost)
  
 (Filename: C:/BuildAgent/work/842f9557127e852/Runtime/Misc/Player.cpp Line: 1466)
 
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/Misc/Player.cpp Line: 1466)
+
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/Misc/Player.cpp Line: 1466)
+
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/Misc/Player.cpp Line: 1466)
+
+Quitting
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+ExitOnEscape:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
