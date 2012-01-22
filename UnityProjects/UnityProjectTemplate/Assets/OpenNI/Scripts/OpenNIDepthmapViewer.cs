@@ -92,7 +92,8 @@ public class OpenNIDepthmapViewer : MonoBehaviour
 				}
 				else
 				{
-					Color32 c = new Color32(OpenNISessionManager.InSession ? (byte) 0 : (byte)depthHistogramMap[pixel], (byte)depthHistogramMap[pixel], 0, 255);
+				    byte pixelC = (byte)depthHistogramMap[pixel];
+					Color32 c = new Color32(OpenNISessionManager.InSession ? (byte) 0 : pixelC, pixelC, pixelC, 255);
 					depthMapPixels[i+x] = c;
 				}
 			}
